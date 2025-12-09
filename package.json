@@ -17,10 +17,12 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.86.2",
     "@tanstack/vue-query": "^5.92.1",
     "axios": "^1.13.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.556.0",
     "pinia": "^3.0.4",
     "radix-vue": "^1.9.17",
     "tailwind-merge": "^3.4.0",
